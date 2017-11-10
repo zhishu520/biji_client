@@ -1,0 +1,1852 @@
+fileFormatVersion: 2
+guid: 400995c7bd0574578ad60d066a6c9df1
+timeCreated: 1509024011
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: card_bg
+    21300002: card_marsk
+    21300004: cardr1
+    21300006: cardr13
+    21300008: cardr12
+    21300010: cardr11
+    21300012: game_pai_ch1_6
+    21300014: cardr10
+    21300016: cardr9
+    21300018: cardr8
+    21300020: cardr7
+    21300022: cardr6
+    21300024: cardr5
+    21300026: cardr4
+    21300028: cardr3
+    21300030: cardr2
+    21300032: cardb1
+    21300034: cardb13
+    21300036: cardb12
+    21300038: cardb11
+    21300040: game_pai_ch1_20
+    21300042: cardb10
+    21300044: cardb9
+    21300046: cardb8
+    21300048: cardb7
+    21300050: cardb6
+    21300052: cardb5
+    21300054: cardb4
+    21300056: cardb3
+    21300058: cardb2
+    21300060: game_pai_ch1_30
+    21300062: game_pai_ch1_31
+    21300064: game_pai_ch1_32
+    21300066: game_pai_ch1_33
+    21300068: game_pai_ch1_34
+    21300070: game_pai_ch1_35
+    21300072: game_pai_ch1_36
+    21300074: game_pai_ch1_37
+    21300076: game_pai_ch1_38
+    21300078: game_pai_ch1_39
+    21300080: game_pai_ch1_40
+    21300082: game_pai_ch1_41
+    21300084: game_pai_ch1_42
+    21300086: game_pai_ch1_43
+    21300088: game_pai_ch1_44
+    21300090: game_pai_ch1_45
+    21300092: game_pai_ch1_46
+    21300094: game_pai_ch1_47
+    21300096: game_pai_ch1_48
+    21300098: game_pai_ch1_49
+    21300100: game_pai_ch1_50
+    21300102: game_pai_ch1_51
+    21300104: game_pai_ch1_52
+    21300106: game_pai_ch1_53
+    21300108: game_pai_ch1_54
+    21300110: game_pai_ch1_55
+    21300112: game_pai_ch1_56
+    21300114: game_pai_ch1_57
+    21300116: game_pai_ch1_58
+    21300118: game_pai_ch1_59
+    21300120: game_pai_ch1_60
+    21300122: game_pai_ch1_61
+    21300124: game_pai_ch1_62
+    21300126: game_pai_ch1_63
+    21300128: game_pai_ch1_64
+    21300130: game_pai_ch1_65
+    21300132: game_pai_ch1_66
+    21300134: game_pai_ch1_67
+    21300136: game_pai_ch1_68
+    21300138: game_pai_ch1_69
+    21300140: game_pai_ch1_70
+    21300142: game_pai_ch1_71
+    21300144: game_pai_ch1_72
+    21300146: game_pai_ch1_73
+    21300148: game_pai_ch1_74
+    21300150: game_pai_ch1_75
+    21300152: game_pai_ch1_76
+    21300154: game_pai_ch1_77
+    21300156: game_pai_ch1_78
+    21300158: game_pai_ch1_79
+    21300160: game_pai_ch1_80
+    21300162: game_pai_ch1_81
+    21300164: game_pai_ch1_82
+    21300166: game_pai_ch1_83
+    21300168: game_pai_ch1_84
+    21300170: game_pai_ch1_85
+    21300172: game_pai_ch1_86
+    21300174: game_pai_ch1_87
+    21300176: game_pai_ch1_88
+    21300178: game_pai_ch1_89
+    21300180: game_pai_ch1_90
+    21300182: game_pai_ch1_91
+    21300184: game_pai_ch1_92
+    21300186: game_pai_ch1_93
+    21300188: game_pai_ch1_94
+    21300190: game_pai_ch1_95
+    21300192: game_pai_ch1_96
+    21300194: game_pai_ch1_97
+    21300196: game_pai_ch1_98
+    21300198: suit0
+    21300200: suit3
+    21300202: suit2
+    21300204: suit1
+    21300206: game_pai_ch1_103
+    21300208: game_pai_ch1_104
+    21300210: game_pai_ch1_105
+    21300212: game_pai_ch1_106
+    21300214: game_pai_ch1_107
+    21300216: game_pai_ch1_108
+    21300218: game_pai_ch1_109
+    21300220: game_pai_ch1_110
+    21300222: game_pai_ch1_111
+    21300224: game_pai_ch1_112
+    21300226: game_pai_ch1_113
+    21300228: game_pai_ch1_114
+    21300230: game_pai_ch1_115
+    21300232: game_pai_ch1_116
+    21300234: game_pai_ch1_117
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: card_bg
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 389
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: card_marsk
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 394
+        width: 83
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 475
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 475
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 475
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 475
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 475
+        width: 4
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 475
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr9
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 475
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 475
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 475
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 475
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 475
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 475
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 475
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardr2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 476
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 437
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 437
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 437
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 437
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_20
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 437
+        width: 4
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb10
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 437
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 437
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 437
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 437
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 437
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 437
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 437
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 437
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardb2
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 437
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 403
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 403
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 403
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_33
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 403
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 403
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_35
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 403
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_36
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 403
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_37
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 403
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_38
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 403
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 403
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_40
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 403
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_41
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 403
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_42
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 403
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 403
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 269
+        width: 96
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 369
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_46
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 369
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_47
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 369
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_48
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 369
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_49
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 369
+        width: 4
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 369
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 369
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_52
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 369
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_53
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 369
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 369
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_55
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 369
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 369
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_57
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 369
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_58
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 369
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_59
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 337
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_60
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 337
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 337
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_63
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_64
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 344
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_65
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 344
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_66
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_67
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 344
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_68
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 344
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_69
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_70
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 344
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_72
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 344
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_73
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_74
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 344
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_75
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 344
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_76
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 344
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_77
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 314
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_78
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 313
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_79
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 312
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 313
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_82
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 317
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_83
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 316
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_84
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_85
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 317
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_86
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 317
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_87
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_88
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_90
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 317
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_92
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 317
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_93
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 317
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_94
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 317
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_95
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 264
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_96
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 257
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_97
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 259
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_98
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit0
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 259
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 257
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit2
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 255
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: suit1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 257
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_103
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 159
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 159
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 160
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_106
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 159
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_107
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 159
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_108
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 159
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_109
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 189
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 69
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_111
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 69
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 69
+        width: 65
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_113
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 69
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_114
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_115
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 69
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_116
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 83
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: game_pai_ch1_117
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
