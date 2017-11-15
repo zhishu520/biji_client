@@ -9,9 +9,15 @@ public enum eProtocalCommand
 
 	CREATE_ROOM_CMD 		= 4,
 	JOIN_ROOM_CMD 			= 5,
-    ROOM_ENTER_NOTIFY_CMD   = 6;
+    ROOM_ENTER_NOTIFY_CMD   = 6,
 	ROOM_STATE_CHANGE_CMD 	= 7,
 
 	GAME_DEAL_CARD      	= 8,
 	GAME_CARD_SOLUTION  	= 9,
+	GAME_RESULT  			= 10,
+}
+
+public enum eErrorCode
+{
+    INDEXS_ERROR 			= 1100,
 }
