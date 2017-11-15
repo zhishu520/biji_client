@@ -6,15 +6,18 @@ using UnityEngine.UI;
 
 public class RoomManager : MonoBehaviour {
 
+	public CardGroup cardGroup;
 	public Text roomIdLabel;
 	public Transform preparePanel;
 	// Use this for initialization
 	void Start () {
 		// if(HallNetDataManager.userInfo.account == 
-		roomIdLabel.text = RoomNetDataManager.roomInfo.id.ToString();
-		UpdateMember ();
+		if (RoomNetDataManager.roomInfo != null) {
+			roomIdLabel.text = RoomNetDataManager.roomInfo.id.ToString ();
+			UpdateMember ();
+		}
 
-		preparePanel.Find("registerButton").GetComponent<Button>().onClick.AddListener(OnDealCard);
+		preparePanel.Find("startButton").GetComponent<Button>().onClick.AddListener(OnDealCard);
 	}
 	
 	// Update is called once per frame
@@ -44,14 +47,10 @@ public class RoomManager : MonoBehaviour {
 		DealCard res;
 		NetDataUtility.GetObjByNetData<DealCard>(data,out err,out res);
 
-		// TODO Init Card Group
-
-
+		cardGroup.gameObject.SetActive(true);
+		preparePanel.gameObject.SetActive (false);
+		cardGroup.InitByCardIds (res.cards);
 	}
-
-
-
-
 
 
 	void UpdateMember()
@@ -90,12 +89,12 @@ public class RoomManager : MonoBehaviour {
 	void OnEnable()
 	{
 		MessageCenter.Instance.addObsever(eProtocalCommand.ROOM_ENTER_NOTIFY_CMD, Notify_NetCall);
-		MessageCenter.Instance.addObsever(eProtocalCommand.ROOM_ENTER_NOTIFY_CMD, Notify_NetCall);
+		MessageCenter.Instance.addObsever(eProtocalCommand.GAME_DEAL_CARD, DealCardNetCall);
 	}
 
 	void OnDisable()
 	{
 		MessageCenter.Instance.removeObserver(eProtocalCommand.ROOM_ENTER_NOTIFY_CMD, Notify_NetCall);
-		MessageCenter.Instance.removeObserver(eProtocalCommand.ROOM_ENTER_NOTIFY_CMD, Notify_NetCall);
+		MessageCenter.Instance.removeObserver(eProtocalCommand.GAME_DEAL_CARD, DealCardNetCall);
 	}
 }

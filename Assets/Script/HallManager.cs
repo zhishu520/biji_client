@@ -83,8 +83,6 @@ public class HallManager : MonoBehaviour {
 		NetError err;
 		JoinRoomRes res;
 		NetDataUtility.GetObjByNetData<JoinRoomRes>(data,out err,out res);
-		if(res.result == 0)
-			SceneManager.LoadScene (2);
 	}
 
 	void Notify_NetCall(byte[] data)
@@ -93,6 +91,8 @@ public class HallManager : MonoBehaviour {
 		RoomInfo res;
 		NetDataUtility.GetObjByNetData<RoomInfo>(data,out err,out res);
 		RoomNetDataManager.roomInfo = res;
+
+		SceneManager.LoadScene (2);
 	}
 
 	void CreateRoom_NetCall(byte[] data)
@@ -101,7 +101,6 @@ public class HallManager : MonoBehaviour {
 		CreateRoomRes res;
 		NetDataUtility.GetObjByNetData<CreateRoomRes>(data,out err,out res);
 		Debug.Log (res);
-		SceneManager.LoadScene (2);
 	}
 
 	void OnEnable()

@@ -7,17 +7,14 @@ public class CardGroup : MonoBehaviour {
 	public static int GroupCardsNum = 9;
 	// Use this for initialization
 	void Start () {
-		
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
-		int[] cards = { 1, 1, 1, 1, 1, 1, 1, 1 ,1 };
-		InitByCardIds (cards);
 	}
 
-	void InitByCardIds(int[] cards)
+	public void InitByCardIds(int[] cards)
 	{
 		if (cards.Length != GroupCardsNum)
 			return;
@@ -29,8 +26,8 @@ public class CardGroup : MonoBehaviour {
 			card.transform.parent = this.transform;
 			card.transform.localScale = new Vector3 (1.0f, 1.0f, 1.0f);
 
-			float x = 5.93f + (4 - i)* 1.0f  ; 
-			card.transform.position = new Vector3 (x,1.7f,i* 0.5f);
+			float x = 5.675f + (4-i)* 0.5f  ; 
+			card.transform.position = new Vector3 (x,1.35f,i* 0.5f);
 
 			card.GetComponent<Card> ().SetCard (cards[i]);
 		}

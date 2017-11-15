@@ -25,6 +25,7 @@ class CardSpriteManager
 	}
 
 	public Sprite getCardSprite(string name){
+		Debug.Log (name);
 		return spriteDict[name];
 	}
 }
@@ -38,7 +39,6 @@ public class Card : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		SetCard (2 * 256 + 13);
 	}
 	
 	// Update is called once per frame

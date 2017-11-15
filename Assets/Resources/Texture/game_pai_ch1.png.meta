@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 400995c7bd0574578ad60d066a6c9df1
-timeCreated: 1509024011
+timeCreated: 1510762316
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -294,9 +294,9 @@ TextureImporter:
       name: cardr10
       rect:
         serializedVersion: 2
-        x: 299
+        x: 292
         y: 475
-        width: 14
+        width: 22
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -350,7 +350,7 @@ TextureImporter:
       name: cardr6
       rect:
         serializedVersion: 2
-        x: 387
+        x: 388
         y: 475
         width: 19
         height: 32
@@ -490,9 +490,9 @@ TextureImporter:
       name: cardb10
       rect:
         serializedVersion: 2
-        x: 299
+        x: 292
         y: 437
-        width: 14
+        width: 22
         height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}

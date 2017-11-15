@@ -19,7 +19,6 @@ public class RoomInfo{
 
 
 // 发牌
-
 [Serializable]
 public class DealCard{
 	public int turn;
