@@ -59,12 +59,21 @@ public class Card : MonoBehaviour
 		this.isTouch = isTouch;
 		bool isUp = isTouch ? !isUpState : isUpState;
 		this.transform.position = isUp ? orgPosition + new Vector3(0.0f, 0.2f, 0.0f) : orgPosition;
+
+		bgSprite.color = isTouch ? Color.gray : Color.white;
+		suitSprite.color = isTouch ? Color.gray : Color.white;
+		numSprite.color = isTouch ? Color.gray : Color.white;
 	}
 
 	public void onTouchEnd()
 	{
 		if (isTouch)
-			isUpState = !isUpState;
+			isUpState = !isUpState;	
+
+		this.isTouch = false;
+		bgSprite.color = Color.white;
+		suitSprite.color = Color.white;
+		numSprite.color = Color.white;
 	}
 
 	public void changeUpDownState ()

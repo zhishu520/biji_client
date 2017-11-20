@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Script" t="Include">
+          <e p="Network" t="Include">
+            <e p="Client.cs" t="Include" />
+            <e p="Data" t="Include">
+              <e p="HallNetData.cs" t="Include" />
+              <e p="LoginData.cs" t="Include" />
+              <e p="LoginNetData.cs" t="Include" />
+              <e p="NetDataUtility.cs" t="Include" />
+              <e p="RoomNetData.cs" t="Include" />
+            </e>
+            <e p="GameConst.cs" t="Include" />
+            <e p="NetLogic.cs" t="Include" />
+            <e p="Server.cs" t="Include" />
+            <e p="Socket" t="Include">
+              <e p="ByteStreamBuff.cs" t="Include" />
+              <e p="DataBuff.cs" t="Include" />
+              <e p="EventDefinition.cs" t="Include" />
+              <e p="MessageCenter.cs" t="Include" />
+              <e p="ProtocalDefinition.cs" t="Include" />
+              <e p="SocketManager.cs" t="Include" />
+            </e>
+          </e>
+          <e p="SceneManagers" t="Include">
+            <e p="HallManager.cs" t="Include" />
+            <e p="LoginManager.cs" t="Include" />
+            <e p="RoomManager.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Card.cs" t="Include" />
+            <e p="CardGroup.cs" t="Include" />
+            <e p="Dun.cs" t="Include" />
+            <e p="DunPanel.cs" t="Include" />
+          </e>
+          <e p="Utility" t="Include">
+            <e p="Singleton.cs" t="Include" />
+            <e p="TouchManager.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="biji_client.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_biji_client.-42641669.00" t="ExcludeRecursive" />
+  </component>
+</project>

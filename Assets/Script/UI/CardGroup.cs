@@ -17,15 +17,12 @@ public class CardGroup : MonoBehaviour {
 	}
 
 
-	void SelectCard() {
-
-	}
-
 
 	bool isLastMouseDown = false;
 	int touchStartIndex = 0;
 
 	public Camera mainCamera;
+
 	int getCardIndexByTouchPosition(Vector3 pos) {
 		var wpos = mainCamera.ScreenToWorldPoint (pos);
 		for (int i = GroupCardsNum-1; i >=0 ; i-- ){
@@ -64,11 +61,14 @@ public class CardGroup : MonoBehaviour {
 		}
 
 		int index = getCardIndexByTouchPosition(Input.mousePosition);
+
+
 		if (index == -1)
 			return;
 
 		int a = Mathf.Min (touchStartIndex, index);
 		int b = Mathf.Max (touchStartIndex, index);
+		Debug.Log (a + " , " + b);
 
 		for (int i = 0; i < GroupCardsNum; i++)
 			cardViews [i].setTouchState (i>=a && i<=b);
@@ -78,6 +78,7 @@ public class CardGroup : MonoBehaviour {
 
 
 	void Update () {
+
 		if (Input.touchCount > 0) {
 			CheckTouchCard ();
 		}
@@ -105,7 +106,7 @@ public class CardGroup : MonoBehaviour {
 			obj.transform.localScale = new Vector3 (1.0f, 1.0f, 1.0f);
 
 			float x = 5.675f + (i-4)* 0.5f  ; 
-			obj.transform.position = new Vector3 (x,1.35f,-i* 0.5f);
+			obj.transform.position = new Vector3 (x,0.7f,-i* 0.5f);
 
 			var card = obj.GetComponent<Card> ();
 			card.SetCard (cards[i]);
